@@ -15,7 +15,6 @@
 [![Rust](https://img.shields.io/badge/Rust-Tauri-CE422B?style=flat-square&logo=rust&logoColor=white)](https://tauri.app)
 [![Django](https://img.shields.io/badge/Django-REST-092E20?style=flat-square&logo=django&logoColor=white)](https://www.django-rest-framework.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 <br/>
 
@@ -106,29 +105,29 @@ INGRION is not a DeFi wrapper around an existing chain. It is a **purpose-built 
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│                        INGRION ECOSYSTEM                                  │
-│                                                                            │
-│   ┌─────────────────┐          ┌─────────────────┐                        │
-│   │  National        │  KYC     │  INGRION         │  Download             │
-│   │  Identity        │ ──────►  │  Web Portal      │ ─────────►  Desktop   │
-│   │  Archive         │  Link    │  (KYC Bridge)    │  Token                │  App
-│   │  (Gov Website)   │          │                  │                        │
-│   └─────────────────┘          └─────────────────┘                        │
-│            │                            │                                  │
-│            │  Citizen Auth              │  KYC Approval                    │
-│            ▼                            ▼                                  │
-│   ┌────────────────────────────────────────────────────────────────────┐  │
-│   │                  INGRION BLOCKCHAIN NODE (Go)                       │  │
-│   │  DPoS Consensus · Ed25519 · BadgerDB · 22 Tx Types · P2P TCP       │  │
-│   └────────────────────────────────────────────────────────────────────┘  │
-│            ▲                            ▲                                  │
-│            │  Transactions              │  Block Validation                │
-│            │                            │                                  │
-│   ┌─────────────────┐          ┌─────────────────┐                        │
-│   │  INGRION         │          │  Validator /     │                        │
-│   │  Desktop App     │          │  Regulator       │                        │
-│   │  (Rust + React)  │          │  Nodes (Go)      │                        │
-│   └─────────────────┘          └─────────────────┘                        │
+│                        INGRION ECOSYSTEM                                 │
+│                                                                          │
+│   ┌─────────────────┐          ┌─────────────────┐                       │
+│   │  National        │  KYC     │  INGRION         │  Download           │
+│   │  Identity        │ ──────►  │  Web Portal      │ ─────────►  Desktop │
+│   │  Archive         │  Link    │  (KYC Bridge)    │  Token              │  App
+│   │  (Gov Website)   │          │                  │                     │
+│   └─────────────────┘           └─────────────────┘                      │
+│            │                            │                                │
+│            │  Citizen Auth              │  KYC Approval                  │
+│            ▼                            ▼                                │
+│   ┌────────────────────────────────────────────────────────────────────┐ │
+│   │                  INGRION BLOCKCHAIN NODE (Go)                      │ │
+│   │  DPoS Consensus · Ed25519 · BadgerDB · 22 Tx Types · P2P TCP       │ │
+│   └────────────────────────────────────────────────────────────────────  │
+│            ▲                            ▲                                │
+│            │  Transactions              │  Block Validation              │
+│            │                            │                                │
+│   ┌─────────────────┐          ┌─────────────────┐                       │
+│   │  INGRION        │          │  Validator /    │                       │
+│   │  Desktop App    │          │  Regulator      │                       │
+│   │  (Rust + React  │          │  Nodes (Go)     │                       │
+│   └─────────────────┘          └─────────────────┘                       │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -270,26 +269,26 @@ This is not a fork. This is not built on Ethereum or Cosmos. Every line of the c
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    INGRION CORE NODE                         │
-│                                                              │
+│                    INGRION CORE NODE                        │
+│                                                             │
 │  ┌──────────────┐  ┌──────────────┐  ┌───────────────────┐  │
 │  │  Consensus   │  │  P2P Network │  │  RPC / REST API   │  │
 │  │  Engine      │  │  (TCP)       │  │  (Gorilla Mux)    │  │
 │  │  (DPoS)      │  │  50 peers    │  │  API-Key gated    │  │
 │  └──────────────┘  └──────────────┘  └───────────────────┘  │
-│         │                 │                    │              │
-│         ▼                 ▼                    ▼              │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │                  State Machine                           │  │
-│  │  Accounts · Balances · Stakes · IPO Metadata · RHPs     │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│         │                                                      │
-│         ▼                                                      │
-│  ┌──────────────┐  ┌──────────────┐                           │
-│  │  BadgerDB    │  │  Mempool     │                           │
-│  │  (Embedded   │  │  (50,000 tx  │                           │
-│  │   KV Store)  │  │   capacity)  │                           │
-│  └──────────────┘  └──────────────┘                           │
+│         │                 │                    │            │
+│         ▼                 ▼                    ▼            │
+│  ┌─────────────────────────────────────────────────────────┐│
+│  │                  State Machine                          ││
+│  │  Accounts · Balances · Stakes · IPO Metadata · RHPs     ││
+│  └─────────────────────────────────────────────────────────┘│
+│         │                                                   │
+│         ▼                                                   │
+│  ┌──────────────┐  ┌──────────────┐                         │
+│  │  BadgerDB    │  │  Mempool     │                         │
+│  │  (Embedded   │  │  (50,000 tx  │                         │
+│  │   KV Store)  │  │   capacity)  │                         │
+│  └──────────────┘  └──────────────┘                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -643,34 +642,34 @@ Role membership is defined in `genesis.json` — `validators[]` and `regulators[
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  FRONTEND / CLIENT                                                    │
-│  React 18 · TypeScript · Tailwind CSS · Recharts · React Router      │
-│  Tauri (Rust) — cross-platform native shell                           │
-│  Vite — build tooling                                                 │
+│  FRONTEND / CLIENT                                                  │
+│  React 18 · TypeScript · Tailwind CSS · Recharts · React Router     │
+│  Tauri (Rust) — cross-platform native shell                         │
+│  Vite — build tooling                                               │
 ├─────────────────────────────────────────────────────────────────────┤
-│  WEB BACKENDS                                                         │
-│  Django 5 · Django REST Framework · Python 3.13                      │
-│  SQLite (dev) / PostgreSQL (prod)                                    │
-│  Token auth · HMAC-SHA256 · Rate throttling (djangorestframework)    │
+│  WEB BACKENDS                                                       │
+│  Django 5 · Django REST Framework · Python 3.13                     │
+│  SQLite (dev) / PostgreSQL (prod)                                   │
+│  Token auth · HMAC-SHA256 · Rate throttling (djangorestframework)   │
 ├─────────────────────────────────────────────────────────────────────┤
-│  BLOCKCHAIN NODE                                                      │
+│  BLOCKCHAIN NODE                                                    │
 │  Go 1.21+ · BadgerDB v3 (embedded KV store)                         │
-│  Gorilla Mux (HTTP router) · net/http · crypto/ed25519               │
-│  encoding/json · sync/atomic · goroutines + channels                 │
+│  Gorilla Mux (HTTP router) · net/http · crypto/ed25519              │
+│  encoding/json · sync/atomic · goroutines + channels                │
 ├─────────────────────────────────────────────────────────────────────┤
-│  CRYPTOGRAPHY                                                         │
-│  Ed25519 — key generation, signing, verification                     │
-│  SHA-256 — document hashing, password hashing                        │
-│  HMAC-SHA256 — API callback authentication                           │
-│  Base64 — embedding and key encoding                                 │
+│  CRYPTOGRAPHY                                                       │
+│  Ed25519 — key generation, signing, verification                    │
+│  SHA-256 — document hashing, password hashing                       │
+│  HMAC-SHA256 — API callback authentication                          │
+│  Base64 — embedding and key encoding                                │
 ├─────────────────────────────────────────────────────────────────────┤
-│  BIOMETRICS                                                           │
-│  Facial embedding vectors (Base64 encoded)                           │
-│  Cosine similarity — identity cross-verification                     │
+│  BIOMETRICS                                                         │
+│  Facial embedding vectors (Base64 encoded)                          │
+│  Cosine similarity — identity cross-verification                    │
 ├─────────────────────────────────────────────────────────────────────┤
-│  INFRASTRUCTURE                                                       │
+│  INFRASTRUCTURE                                                     │
 │  TCP P2P (up to 50 peers) · REST RPC (API-key gated)                │
-│  BadgerDB snapshots · Goroutine-safe mempool                         │
+│  BadgerDB snapshots · Goroutine-safe mempool                        │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -877,10 +876,10 @@ INGRION/
 
 | | Name | Role in Project |
 |--|------|----------------|
-| 🧠 | **Kiran** | National Identity Archive (Gov KYC Portal) — Django backend, biometric enrollment, admin approval flow |
+| 🧠 | **Kiran**    | INGRION Blockchain Core — Go node, DPoS consensus, P2P network, all 22 transaction types, state machine  |
 | 🌐 | **Shreyaas** | INGRION Web Portal — KYC verification bridge, download token system, DRHP browser |
 | 💻 | **Kirthick** | INGRION Desktop App — Rust/Tauri shell, React UI, all 4 role dashboards, keystore management |
-| ⛓️ | **Thirumal** | INGRION Blockchain Core — Go node, DPoS consensus, P2P network, all 22 transaction types, state machine |
+| ⛓️ | **Thirumal** | National Identity Archive (Gov KYC Portal) — Django backend, biometric enrollment, admin approval flow |
 
 </div>
 
