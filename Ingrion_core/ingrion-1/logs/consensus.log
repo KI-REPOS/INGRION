@@ -1,0 +1,153 @@
+[CONSENSUS] 2026/04/08 04:01:15.251649 =======================================
+[CONSENSUS] 2026/04/08 04:01:15.251649 STARTING CONSENSUS LOOP
+[CONSENSUS] 2026/04/08 04:01:15.251649 =======================================
+[CONSENSUS] 2026/04/08 04:01:15.251649 🔄 Processing height 1
+[CONSENSUS] 2026/04/08 04:01:15.251649 ⏳ SLOT LOCK: height=1 waiting 12s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:15+05:30)
+[CONSENSUS] 2026/04/08 04:01:27.000265 👑 Height 1: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:01:27.000265 🎯 We are proposer for height 1
+[CONSENSUS] 2026/04/08 04:01:27.000265 🔍 Processing block 1
+[CONSENSUS] 2026/04/08 04:01:27.002277 🔧 Filled empty roots for our block 1
+[CONSENSUS] 2026/04/08 04:01:27.007855 📈 Finalized height now 1
+[CONSENSUS] 2026/04/08 04:01:27.008361 ✅ Block 1 accepted hash=143460748d7d89c1 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:01:27.008361 📤 Proposed block 1 queued
+[CONSENSUS] 2026/04/08 04:01:27.008361 ✅ Block 1 accepted | txs=0 | allocOps=0 | hash=994e9cd6af94f244
+[CONSENSUS] 2026/04/08 04:01:27.008361 🔄 Processing height 2
+[CONSENSUS] 2026/04/08 04:01:27.008361 ⏳ SLOT LOCK: height=2 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:27+05:30)
+[CONSENSUS] 2026/04/08 04:01:32.000218 👑 Height 2: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:01:32.000218 🎯 We are proposer for height 2
+[CONSENSUS] 2026/04/08 04:01:32.000728 🔍 Processing block 2
+[CONSENSUS] 2026/04/08 04:01:32.001731 🔧 Filled empty roots for our block 2
+[CONSENSUS] 2026/04/08 04:01:32.001731 📈 Finalized height now 2
+[CONSENSUS] 2026/04/08 04:01:32.003237 ✅ Block 2 accepted hash=5fbad43b47ee886d txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:01:32.003237 📤 Proposed block 2 queued
+[CONSENSUS] 2026/04/08 04:01:32.003237 ✅ Block 2 accepted | txs=0 | allocOps=0 | hash=de72ca75716b329a
+[CONSENSUS] 2026/04/08 04:01:32.003237 🔄 Processing height 3
+[CONSENSUS] 2026/04/08 04:01:32.003237 ⏳ SLOT LOCK: height=3 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:32+05:30)
+[CONSENSUS] 2026/04/08 04:01:37.000449 👑 Height 3: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:01:37.000449 🎯 We are proposer for height 3
+[CONSENSUS] 2026/04/08 04:01:37.000449 🔍 Processing block 3
+[CONSENSUS] 2026/04/08 04:01:37.002460 🔧 Filled empty roots for our block 3
+[CONSENSUS] 2026/04/08 04:01:37.002460 📈 Finalized height now 3
+[CONSENSUS] 2026/04/08 04:01:37.003458 ✅ Block 3 accepted hash=fd92422d4b37dcbf txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:01:37.003967 📤 Proposed block 3 queued
+[CONSENSUS] 2026/04/08 04:01:37.003967 ✅ Block 3 accepted | txs=0 | allocOps=0 | hash=7a3d484d1f354cb9
+[CONSENSUS] 2026/04/08 04:01:37.003967 🔄 Processing height 4
+[CONSENSUS] 2026/04/08 04:01:37.003967 ⏳ SLOT LOCK: height=4 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:37+05:30)
+[CONSENSUS] 2026/04/08 04:01:42.000374 👑 Height 4: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:01:42.000374 🎯 We are proposer for height 4
+[CONSENSUS] 2026/04/08 04:01:42.000374 🔍 Processing block 4
+[CONSENSUS] 2026/04/08 04:01:42.001777 🔧 Filled empty roots for our block 4
+[CONSENSUS] 2026/04/08 04:01:42.001777 📈 Finalized height now 4
+[CONSENSUS] 2026/04/08 04:01:42.007712 ✅ Block 4 accepted hash=d404876fa1ef0862 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:01:42.007712 📤 Proposed block 4 queued
+[CONSENSUS] 2026/04/08 04:01:42.007712 ✅ Block 4 accepted | txs=0 | allocOps=0 | hash=6a40aa5d571a310c
+[CONSENSUS] 2026/04/08 04:01:42.007712 🔄 Processing height 5
+[CONSENSUS] 2026/04/08 04:01:42.007712 ⏳ SLOT LOCK: height=5 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:42+05:30)
+[CONSENSUS] 2026/04/08 04:01:47.000495 👑 Height 5: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:01:47.000495 🎯 We are proposer for height 5
+[CONSENSUS] 2026/04/08 04:01:47.000495 🔍 Processing block 5
+[CONSENSUS] 2026/04/08 04:01:47.003002 🔧 Filled empty roots for our block 5
+[CONSENSUS] 2026/04/08 04:01:47.003002 📈 Finalized height now 5
+[CONSENSUS] 2026/04/08 04:01:47.004158 ✅ Block 5 accepted hash=94dbd0336c348159 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:01:47.004158 📤 Proposed block 5 queued
+[CONSENSUS] 2026/04/08 04:01:47.004158 ✅ Block 5 accepted | txs=0 | allocOps=0 | hash=39c9f68578da5c50
+[CONSENSUS] 2026/04/08 04:01:47.004158 🔄 Processing height 6
+[CONSENSUS] 2026/04/08 04:01:47.004158 ⏳ SLOT LOCK: height=6 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:47+05:30)
+[CONSENSUS] 2026/04/08 04:01:52.000982 👑 Height 6: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:01:52.000982 🎯 We are proposer for height 6
+[CONSENSUS] 2026/04/08 04:01:52.000982 🔍 Processing block 6
+[CONSENSUS] 2026/04/08 04:01:52.002031 🔧 Filled empty roots for our block 6
+[CONSENSUS] 2026/04/08 04:01:52.002031 📈 Finalized height now 6
+[CONSENSUS] 2026/04/08 04:01:52.010576 ✅ Block 6 accepted hash=01df5713ecd6bfea txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:01:52.010576 📤 Proposed block 6 queued
+[CONSENSUS] 2026/04/08 04:01:52.011576 ✅ Block 6 accepted | txs=0 | allocOps=0 | hash=adcf6d7613627916
+[CONSENSUS] 2026/04/08 04:01:52.011576 🔄 Processing height 7
+[CONSENSUS] 2026/04/08 04:01:52.011576 ⏳ SLOT LOCK: height=7 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:52+05:30)
+[CONSENSUS] 2026/04/08 04:01:57.000566 👑 Height 7: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:01:57.000566 🎯 We are proposer for height 7
+[CONSENSUS] 2026/04/08 04:01:57.000566 🔍 Processing block 7
+[CONSENSUS] 2026/04/08 04:01:57.002082 🔧 Filled empty roots for our block 7
+[CONSENSUS] 2026/04/08 04:01:57.003082 📈 Finalized height now 7
+[CONSENSUS] 2026/04/08 04:01:57.003594 ✅ Block 7 accepted hash=17e9b7c604978367 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:01:57.003594 📤 Proposed block 7 queued
+[CONSENSUS] 2026/04/08 04:01:57.003594 ✅ Block 7 accepted | txs=0 | allocOps=0 | hash=616bfa027b7e5531
+[CONSENSUS] 2026/04/08 04:01:57.003594 🔄 Processing height 8
+[CONSENSUS] 2026/04/08 04:01:57.003594 ⏳ SLOT LOCK: height=8 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:01:57+05:30)
+[CONSENSUS] 2026/04/08 04:02:02.000337 👑 Height 8: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:02.000337 🎯 We are proposer for height 8
+[CONSENSUS] 2026/04/08 04:02:02.000337 🔍 Processing block 8
+[CONSENSUS] 2026/04/08 04:02:02.001859 🔧 Filled empty roots for our block 8
+[CONSENSUS] 2026/04/08 04:02:02.001859 📈 Finalized height now 8
+[CONSENSUS] 2026/04/08 04:02:02.007980 ✅ Block 8 accepted hash=2eb0645308342eef txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:02.007980 📤 Proposed block 8 queued
+[CONSENSUS] 2026/04/08 04:02:02.007980 ✅ Block 8 accepted | txs=0 | allocOps=0 | hash=fc3acdfc40e89193
+[CONSENSUS] 2026/04/08 04:02:02.007980 🔄 Processing height 9
+[CONSENSUS] 2026/04/08 04:02:02.007980 ⏳ SLOT LOCK: height=9 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:02:02+05:30)
+[CONSENSUS] 2026/04/08 04:02:07.000129 👑 Height 9: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:07.000129 🎯 We are proposer for height 9
+[CONSENSUS] 2026/04/08 04:02:07.000129 🔍 Processing block 9
+[CONSENSUS] 2026/04/08 04:02:07.002150 🔧 Filled empty roots for our block 9
+[CONSENSUS] 2026/04/08 04:02:07.002150 📈 Finalized height now 9
+[CONSENSUS] 2026/04/08 04:02:07.002150 ✅ Block 9 accepted hash=e1de94e8823461ca txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:07.002150 📤 Proposed block 9 queued
+[CONSENSUS] 2026/04/08 04:02:07.003139 ✅ Block 9 accepted | txs=0 | allocOps=0 | hash=496bb1e6231b5f34
+[CONSENSUS] 2026/04/08 04:02:07.003139 🔄 Processing height 10
+[CONSENSUS] 2026/04/08 04:02:07.003139 ⏳ SLOT LOCK: height=10 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:02:07+05:30)
+[CONSENSUS] 2026/04/08 04:02:12.000257 👑 Height 10: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:12.000257 🎯 We are proposer for height 10
+[CONSENSUS] 2026/04/08 04:02:12.000882 🔍 Processing block 10
+[CONSENSUS] 2026/04/08 04:02:12.001976 🔧 Filled empty roots for our block 10
+[CONSENSUS] 2026/04/08 04:02:12.001976 📈 Finalized height now 10
+[CONSENSUS] 2026/04/08 04:02:12.002521 ✅ Block 10 accepted hash=0449c1d12d9d93da txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:12.002521 📤 Proposed block 10 queued
+[CONSENSUS] 2026/04/08 04:02:12.002521 ✅ Block 10 accepted | txs=0 | allocOps=0 | hash=ba7a21dacaa32015
+[CONSENSUS] 2026/04/08 04:02:12.002521 🔄 Processing height 11
+[CONSENSUS] 2026/04/08 04:02:12.002521 ⏳ SLOT LOCK: height=11 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:02:12+05:30)
+[CONSENSUS] 2026/04/08 04:02:17.000099 👑 Height 11: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:17.000099 🎯 We are proposer for height 11
+[CONSENSUS] 2026/04/08 04:02:17.000099 🔍 Processing block 11
+[CONSENSUS] 2026/04/08 04:02:17.002157 🔧 Filled empty roots for our block 11
+[CONSENSUS] 2026/04/08 04:02:17.002157 📈 Finalized height now 11
+[CONSENSUS] 2026/04/08 04:02:17.002157 ✅ Block 11 accepted hash=3d8bd8a1de8cc81f txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:17.002157 📤 Proposed block 11 queued
+[CONSENSUS] 2026/04/08 04:02:17.002157 ✅ Block 11 accepted | txs=0 | allocOps=0 | hash=57f250a77c106863
+[CONSENSUS] 2026/04/08 04:02:17.003183 🔄 Processing height 12
+[CONSENSUS] 2026/04/08 04:02:17.003183 ⏳ SLOT LOCK: height=12 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:02:17+05:30)
+[CONSENSUS] 2026/04/08 04:02:22.000427 👑 Height 12: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:22.000427 🎯 We are proposer for height 12
+[CONSENSUS] 2026/04/08 04:02:22.000427 🔍 Processing block 12
+[CONSENSUS] 2026/04/08 04:02:22.002748 🔧 Filled empty roots for our block 12
+[CONSENSUS] 2026/04/08 04:02:22.003271 📈 Finalized height now 12
+[CONSENSUS] 2026/04/08 04:02:22.003840 ✅ Block 12 accepted hash=756b8e988929a672 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:22.004372 📤 Proposed block 12 queued
+[CONSENSUS] 2026/04/08 04:02:22.004372 ✅ Block 12 accepted | txs=0 | allocOps=0 | hash=729a7f42398f419a
+[CONSENSUS] 2026/04/08 04:02:22.004372 🔄 Processing height 13
+[CONSENSUS] 2026/04/08 04:02:22.004372 ⏳ SLOT LOCK: height=13 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:02:22+05:30)
+[CONSENSUS] 2026/04/08 04:02:27.000527 👑 Height 13: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:27.000527 🎯 We are proposer for height 13
+[CONSENSUS] 2026/04/08 04:02:27.000527 🔍 Processing block 13
+[CONSENSUS] 2026/04/08 04:02:27.002052 🔧 Filled empty roots for our block 13
+[CONSENSUS] 2026/04/08 04:02:27.002052 📈 Finalized height now 13
+[CONSENSUS] 2026/04/08 04:02:27.004089 ✅ Block 13 accepted hash=1b82a71409c484c9 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:27.004089 📤 Proposed block 13 queued
+[CONSENSUS] 2026/04/08 04:02:27.004089 ✅ Block 13 accepted | txs=0 | allocOps=0 | hash=95bce68571acfd43
+[CONSENSUS] 2026/04/08 04:02:27.004089 🔄 Processing height 14
+[CONSENSUS] 2026/04/08 04:02:27.004089 ⏳ SLOT LOCK: height=14 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:02:27+05:30)
+[CONSENSUS] 2026/04/08 04:02:32.000257 👑 Height 14: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:32.000257 🎯 We are proposer for height 14
+[CONSENSUS] 2026/04/08 04:02:32.000257 🔍 Processing block 14
+[CONSENSUS] 2026/04/08 04:02:32.002264 🔧 Filled empty roots for our block 14
+[CONSENSUS] 2026/04/08 04:02:32.002264 📈 Finalized height now 14
+[CONSENSUS] 2026/04/08 04:02:32.002264 ✅ Block 14 accepted hash=b81a6205bb7c1692 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:32.003270 📤 Proposed block 14 queued
+[CONSENSUS] 2026/04/08 04:02:32.003270 ✅ Block 14 accepted | txs=0 | allocOps=0 | hash=aaa28bfffdd7925f
+[CONSENSUS] 2026/04/08 04:02:32.003270 🔄 Processing height 15
+[CONSENSUS] 2026/04/08 04:02:32.003270 ⏳ SLOT LOCK: height=15 waiting 5s (genesis=2026-04-08T04:01:22+05:30, now=2026-04-08T04:02:32+05:30)
+[CONSENSUS] 2026/04/08 04:02:37.000551 👑 Height 15: proposer=961546dfd742ca7f (we are 961546dfd742ca7f)
+[CONSENSUS] 2026/04/08 04:02:37.000551 🎯 We are proposer for height 15
+[CONSENSUS] 2026/04/08 04:02:37.001058 🔍 Processing block 15
+[CONSENSUS] 2026/04/08 04:02:37.002573 🔧 Filled empty roots for our block 15
+[CONSENSUS] 2026/04/08 04:02:37.002573 📈 Finalized height now 15
+[CONSENSUS] 2026/04/08 04:02:37.003588 ✅ Block 15 accepted hash=e0040c7e6baf7da6 txs=0 gas=0
+[CONSENSUS] 2026/04/08 04:02:37.003588 📤 Proposed block 15 queued
+[CONSENSUS] 2026/04/08 04:02:37.003588 ✅ Block 15 accepted | txs=0 | allocOps=0 | hash=42b2502abd839054

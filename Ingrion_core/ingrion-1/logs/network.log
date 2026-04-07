@@ -1,0 +1,76 @@
+[NETWORK] 2026/04/08 04:01:12.251249 🔗 Connecting to bootstrap peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:01:12.251249 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:01:12.252352 ✅ P2P server listening on 127.0.0.1:3001
+[NETWORK] 2026/04/08 04:01:12.254369 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:01:43.252296 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:01:43.252296 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:01:43.252805 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:02:13.252099 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:02:13.252099 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:02:13.252731 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:02:43.252195 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:02:43.252195 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:02:43.252844 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:03:13.252333 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:03:13.252333 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:03:13.252970 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:03:43.252423 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:03:43.252423 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:03:43.252423 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:04:13.252103 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:04:13.252103 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:04:13.252103 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:04:43.252235 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:04:43.252235 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:04:43.252235 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:05:13.251858 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:05:13.251858 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:05:13.251858 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:05:43.251904 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:05:43.251904 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:05:43.251904 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:06:13.252233 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:06:13.252233 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:06:13.252855 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:06:43.252249 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:06:43.252249 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:06:43.252249 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:07:13.252012 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:07:13.252012 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:07:13.252521 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:07:43.251973 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:07:43.251973 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:07:43.251973 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:08:13.252062 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:08:13.252062 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:08:13.252062 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:08:43.252321 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:08:43.252321 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:08:43.252321 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:09:13.252093 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:09:13.252093 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:09:13.252093 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:09:43.252230 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:09:43.252230 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:09:43.252230 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:10:13.252042 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:10:13.252042 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:10:13.252042 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:10:43.252211 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:10:43.252211 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:10:43.252211 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:11:13.252215 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:11:13.252215 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:11:13.252725 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:11:43.251904 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:11:43.251904 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:11:43.252415 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:12:13.251997 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:12:13.251997 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:12:13.252616 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:12:43.252170 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:12:43.252170 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:12:43.252901 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.
+[NETWORK] 2026/04/08 04:13:13.252077 🔁 Low peer count (0), reconnecting to bootstrap nodes
+[NETWORK] 2026/04/08 04:13:13.252077 🔗 Dialing peer: 127.0.0.1:3002
+[NETWORK] 2026/04/08 04:13:13.252077 ❌ Failed to dial peer 127.0.0.1:3002: dial tcp 127.0.0.1:3002: connectex: No connection could be made because the target machine actively refused it.

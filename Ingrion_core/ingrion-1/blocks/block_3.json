@@ -1,0 +1,16 @@
+{
+  "header": {
+    "prevHash": "5fbad43b47ee886d79554b7b65dd59b706491d38e1dc4c8dac9581d010c118fe",
+    "proposer": "961546dfd742ca7fad64ef17ace247c502903c853f548bb5aa1f3fc73f8417ca",
+    "height": 3,
+    "txCount": 0,
+    "timestamp": 1775601097,
+    "gasUsed": 0,
+    "stateRoot": "db08d883b0d1ccc1d9428067a2bd2eba5ddf0b0ec2f2674c561574d3ecdd9dfc",
+    "validatorRoot": "4c4e7ab0ed0473a11fe65c53cb103899194a94684bc2a2404dea01e94e8731f4",
+    "allocCount": 0
+  },
+  "transactions": null,
+  "proposerSig": "UkAUefexUM9c8zEFLGUdfcqiFu4X6TRlNVdkm4+NgH+I0egJ2G0m9f78qyTpcff7NydiegZUpASZAK1a16y6Cg==",
+  "blockHash": "fd92422d4b37dcbf8150f2961eed6954e429e700bf64f77bfeb859f6ad04fbfc"
+}
